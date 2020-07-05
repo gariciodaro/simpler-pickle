@@ -16,3 +16,9 @@ OFH.save_object(path="./x.file",object=x)
 x_loaded=OFH.load_object(path="./x.file")
 
 ```
+
+## Installation 
+
+```
+pip install simpler-pickle
+```
