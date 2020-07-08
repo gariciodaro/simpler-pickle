@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="simpler-pickle",
-    version="0.0.1",
+    version="0.0.2",
     author="Gari Ciodaro Guerra",
     author_email="gari.ciodaro.guerra@gmail.com",
     description="simpler pickle code",
